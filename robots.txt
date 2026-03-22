@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://horskyraj.sk/sitemap.xml
+Sitemap: https://jusgaro.github.io/horskyraj/sitemap.xml
