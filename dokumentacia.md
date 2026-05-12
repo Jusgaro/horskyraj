@@ -24,7 +24,7 @@ Hlavnou cielovou skupinou su domaci a zahraniční turisti hladajuci ubytovanie 
 ### URL Adresa
 **https://horskyraj.sk** (alebo skutocna domena po nasadeni)
 
-### Prehled Stránok
+### Prehled Stranok
 
 | Subor | Nazov | Popis |
 |-------|-------|-------|
